@@ -1,7 +1,12 @@
 venv/
+.venv/
 __pycache__/
 *.pyc
 *.pth
 *.bin
 *.pt
 dataset.txt
+train.csv
+.DS_Store
+*.log
+.ipynb_checkpoints/
